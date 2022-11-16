@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaruthanG
 - 👀 I’m interested in C and Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram @Maruthang
 
 <!---
