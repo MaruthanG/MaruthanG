@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaruthanG
-- 👀 I’m interested in C and Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in C and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Telegram @Maruthang
 
 <!---
